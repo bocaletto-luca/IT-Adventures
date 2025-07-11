@@ -5,7 +5,7 @@
 
 **A comedic, tech-heavy text adventure in pure open-source style**  
 
-In **IT Adventures**, you don the hoodie of Luca, a quick-witted sysadmin with a knack for command-line humor. Your playground is **Nerdstown**, a neon-lit city where Ethernet cables crisscross sidewalks like vines, and cafés brew “Espresso at 5 GHz.” You’ll start in your cluttered hacker den—monitor towers balanced like Jenga blocks, Linux stickers plastering every surface, and a cat furiously tapping on a keyboard—before venturing out to:
+In **IT Adventures**, you don the hoodie of Luca, a quick-witted sysadmin with a knack for command-line humor. Your playground is **Nerdstown**, a neon lit city where Ethernet cables crisscross sidewalks like vines, and cafés brew “Espresso at 5 GHz.” You’ll start in your cluttered hacker den—monitor towers balanced like Jenga blocks, Linux stickers plastering every surface, and a cat furiously tapping on a keyboard—before venturing out to:
 
 - **TechCorp’s open-space**: dodge crashing 500 errors, scavenge discarded hard drives, and face your first fetch quest.  
 - The **Bean Overclock Café**: where baristas challenge you with impromptu Linux quizzes while you sip a “Latte 16-Thread.”  
